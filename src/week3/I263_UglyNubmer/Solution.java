@@ -1,4 +1,4 @@
-package I263_UglyNubmer;
+package week3.I263_UglyNubmer;
 
 
 public class Solution {

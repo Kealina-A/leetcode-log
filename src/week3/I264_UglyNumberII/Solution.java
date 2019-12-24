@@ -1,4 +1,4 @@
-package I264_UglyNumberII;
+package week3.I264_UglyNumberII;
 
 public class Solution {
 
