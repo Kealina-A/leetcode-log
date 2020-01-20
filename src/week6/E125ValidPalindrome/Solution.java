@@ -1,4 +1,4 @@
-package week6.E125VaildPalindrome;
+package week6.E125ValidPalindrome;
 
 /**
  * 执行耗时:4 ms,击败了86.70% 的Java用户

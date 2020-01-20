@@ -1,4 +1,4 @@
-package week5.I606ContructStringFromBinaryTree;
+package week5.I606ConstructStringFromBinaryTree;
 
 public class Solution {
     public class TreeNode {

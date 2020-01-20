@@ -1,4 +1,4 @@
-package week6.E38CoutAndSay;
+package week6.E38CountAndSay;
 
 /**
  * 执行耗时:2 ms

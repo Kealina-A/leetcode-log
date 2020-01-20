@@ -1,6 +1,4 @@
-package week5.I108ConvertSortedArraytoBinarySearchTree;
-
-import java.util.Arrays;
+package week5.I108ConvertSortedArrayToBinarySearchTree;
 
 public class Solution {
 
