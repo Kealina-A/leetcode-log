@@ -51,4 +51,16 @@
 * [【EASY】415.AddStrings](https://github.com/Kealina-A/leetcode-log/blob/master/src/week6/E415AddStrings/Solution.java)
 * [【EASY】434.NumberOfSegmentsInAString](https://github.com/Kealina-A/leetcode-log/blob/master/src/week6/E434NumberOfSegmentsInAString/Solution.java)
 * [【EASY】443.StringCompression](https://github.com/Kealina-A/leetcode-log/blob/master/src/week6/E443StringCompression/Solution.java)
+## 第七周（动态规划/easy）2020-01-20 ~ 2020-01-26
+> 春节，有点懈怠了。
+* [【EASY】443.StringCompression](https://github.com/Kealina-A/leetcode-log/blob/master/src/week6/E443StringCompression/Solution.java)
+* [【EASY】53.MaximumSubarray](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E53MaximumSubarray/Solution.java)
+* [【EASY】70.ClimbingStairs](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E70ClimbingStairs/Solution.java)
+* [【EASY】121.BestTimeToBuyAndSellStock](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E121BestTimeToBuyAndSellStock/Solution.java)
+* [【EASY】198.HouseRobber](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E198HouseRobber/Solution.java)
+* [【EASY】303.RangeSumQueryImmutable](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E303RangeSumQueryImmutable/NumArray.java)
+* [【EASY】392.IsSubsequence](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E392IsSubsequence/Solution.java)
+* [【EASY】746.MinCostClimbingStairs](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E746MinCostClimbingStairs/Solution.java)
+* [【EASY】1025.DivisorGame](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E1025DivisorGame/Solution.java)
+* [【MID】5.LongestPalindromicSubstring](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/M5LongestPalindromicSubstring/Solution.java)
 
