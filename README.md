@@ -62,5 +62,20 @@
 * [【EASY】392.IsSubsequence](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E392IsSubsequence/Solution.java)
 * [【EASY】746.MinCostClimbingStairs](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E746MinCostClimbingStairs/Solution.java)
 * [【EASY】1025.DivisorGame](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/E1025DivisorGame/Solution.java)
-* [【MID】5.LongestPalindromicSubstring](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/M5LongestPalindromicSubstring/Solution.java)
-
+* [【MED】5.LongestPalindromicSubstring](https://github.com/Kealina-A/leetcode-log/blob/master/src/week7/M5LongestPalindromicSubstring/Solution.java)
+## 第八周（栈/easy&medium）2020-01-30 ~ 2020-02-01
+> 惰性已经起来了，已经沦落到随性刷题目，没能每天坚持！
+* [【E】155.MinStack](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E155MinStack/MinStack.java)
+* [【E】225.ImplementStackUsingQueues](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E225ImplementStackUsingQueues/MyStack.java)
+* [【E】232.ImplementQueueUsingStacks](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E232ImplementQueueUsingStacks/MyQueue.java)
+* [【E】496.NextGreaterElementI](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E496NextGreaterElementI/Solution.java)
+* [【E】682.BaseballGame](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E682BaseballGame/Solution.java)
+* [【E】844.BackspaceStringCompare](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E844BackspaceStringCompare/Solution.java)
+* [【E】102.1RemoveOutermostParentheses](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E1021RemoveOutermostParentheses/Solution.java)
+* [【E】104.7RemoveAllAdjacentDuplicatesInString](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/E1047RemoveAllAdjacentDuplicatesInString/Solution.java)
+* [【M】71.SimplifyPath](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/M71SimplifyPath/Solution.java)
+* [【M】94.BinaryTreeInorderTraversal](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/M94BinaryTreeInorderTraversal/Solution.java)
+* [【M】103.BinaryTreeZigzagLevelOrderTraversal](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/M103BinaryTreeZigzagLevelOrderTraversal/Solution.java)
+* [【M】144.BinaryTreePreorderTraversal](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/M144BinaryTreePreorderTraversal/Solution.java)
+* [【M】150.EvaluateReversePolishNotation](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/M150EvaluateReversePolishNotation/Solution.java)
+* [【M】173.BinarySearchTreeIterator](https://github.com/Kealina-A/leetcode-log/blob/master/src/week8/M173BinarySearchTreeIterator/BSTIterator.java)
