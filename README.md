@@ -90,3 +90,6 @@
 * [【M】61. RotateList](https://github.com/Kealina-A/leetcode-log/blob/master/src/week9/M61RotateList/Solution.java)
 * [【M】82. RemoveDuplicatesFromSortedListII](https://github.com/Kealina-A/leetcode-log/blob/master/src/week9/M82RemoveDuplicatesFromSortedListII/Solution.java)
 * [【M】86. PartitionList](https://github.com/Kealina-A/leetcode-log/blob/master/src/week9/M86PartitionList/Solution.java)
+
+# 终结
+由于平时会直接在页面写了提交，时间也不固定，所以懒得搬运了过来记录，但是每天一定会去　leetcode 上点亮小格子。年底时再配个截图吧！坚持的力量！
